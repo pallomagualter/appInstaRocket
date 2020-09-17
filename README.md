@@ -45,7 +45,7 @@ O InstaRocket é um projeto clone do Instagram que visa compartilhar fotos e cri
 
 ```bash
 # Clone o Repositório
-$  git clone https://github.com/
+$  git clone https://github.com/pallomagualter/appInstaRocket.git
 # Va até o diretório do backend, e instale suas dependências
 $ cd backend
 # Instale as dependências
@@ -72,10 +72,8 @@ $ yarn start
 $ cd mobile 
 #Instale as dependências
 $ yarn 
-# Android 
-$ react-native run-android
-#iOS 
-$ react-native run-ios
+# Inicie a aplicação
+$ yarn start
 ```
 
 ## :memo: Licença
